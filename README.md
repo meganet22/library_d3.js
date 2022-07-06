@@ -1,2 +1,1 @@
-# library_d3.js
-library_d3.js
+D3.js kütüphanesi nasıl bir kütüphanedir? Cevap: Belgeleri bir veri setine göre düzenlemek için kullanılan bir kütüphanedir ve veriden elde edilen bilgileri kullanarak HTML, SVG ve CSS teknolojileri üzerinde işlem gerçekleştirebilmektedir.
